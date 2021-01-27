@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a92bdee-569a-4509-9522-45d87bce0228" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TestFeedForward$feedForwardTest0.coverage" NAME="feedForwardTest0 Coverage Results" MODIFIED="1499334350848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestFeedForward$UnfoldFiles.coverage" NAME="UnfoldFiles Coverage Results" MODIFIED="1500911145003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../genePred" />
+    <SUITE FILE_PATH="coverage/TestFeedForward$feedForwardTestMnist.coverage" NAME="feedForwardTestMnist Coverage Results" MODIFIED="1500972940670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestFeedForward$genePredOneGene.coverage" NAME="genePredOneGene Coverage Results" MODIFIED="1501231110537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../genePred" />
+    <SUITE FILE_PATH="coverage/TestFeedForward$genePred.coverage" NAME="genePred Coverage Results" MODIFIED="1501226847762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../genePred" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="genePred.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="192" column="42" lean-forward="false" selection-start-line="192" selection-start-column="42" selection-end-line="192" selection-end-column="42" />
+              <folding>
+                <element signature="e#149#394#0" expanded="false" />
+                <element signature="e#459#506#0" expanded="false" />
+                <element signature="e#610#1163#0" expanded="false" />
+                <element signature="e#1241#1258#0" expanded="false" />
+                <element signature="e#1337#1445#0" expanded="false" />
+                <element signature="e#1574#1688#0" expanded="false" />
+                <element signature="e#1859#2029#0" expanded="false" />
+                <element signature="e#2234#2555#0" expanded="false" />
+                <element signature="e#2587#2812#0" expanded="false" />
+                <element signature="e#2935#3150#0" expanded="false" />
+                <element signature="e#3283#3634#0" expanded="false" />
+                <element signature="e#3903#4353#0" expanded="false" />
+                <element signature="e#4498#4875#0" expanded="false" />
+                <element signature="e#4906#4984#0" expanded="false" />
+                <element signature="e#5013#5082#0" expanded="false" />
+                <element signature="e#5132#5201#0" expanded="false" />
+                <element signature="e#5280#5883#0" expanded="false" />
+                <element signature="e#5961#6119#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="genePredOneGene.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../genePred/genePredOneGene.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="244" column="14" lean-forward="false" selection-start-line="244" selection-start-column="14" selection-end-line="244" selection-end-column="14" />
+              <folding>
+                <element signature="e#149#394#0" expanded="false" />
+                <element signature="e#459#506#0" expanded="false" />
+                <element signature="e#610#1163#0" expanded="false" />
+                <element signature="e#1241#1258#0" expanded="false" />
+                <element signature="e#1337#1445#0" expanded="false" />
+                <element signature="e#1574#1688#0" expanded="false" />
+                <element signature="e#1859#2029#0" expanded="false" />
+                <element signature="e#2234#2555#0" expanded="false" />
+                <element signature="e#2587#2812#0" expanded="false" />
+                <element signature="e#2935#3150#0" expanded="false" />
+                <element signature="e#3283#3634#0" expanded="false" />
+                <element signature="e#3903#4353#0" expanded="false" />
+                <element signature="e#4498#4875#0" expanded="false" />
+                <element signature="e#4906#4984#0" expanded="false" />
+                <element signature="e#5013#5082#0" expanded="false" />
+                <element signature="e#5132#5201#0" expanded="false" />
+                <element signature="e#5280#5883#0" expanded="false" />
+                <element signature="e#5961#6119#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numeric.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages/numpy/core/numeric.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="530" column="0" lean-forward="false" selection-start-line="530" selection-start-column="0" selection-end-line="530" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mnis</find>
+      <find>mn</find>
+      <find>get</find>
+      <find>for</find>
+      <find>app</find>
+      <find>annotationli</find>
+      <find>annotationListSpeciesA</find>
+      <find>clos</find>
+      <find>np</find>
+      <find>genena</find>
+      <find>32</find>
+      <find>16</find>
+      <find>spars</find>
+      <find>remo</find>
+      <find>rem</find>
+      <find>getancestor</find>
+      <find>unf</find>
+      <find>attr</find>
+      <find>*</find>
+      <find>sess</find>
+      <find>imag</find>
+      <find>ima</find>
+      <find>ini</find>
+      <find>relu</find>
+      <find>y1</find>
+      <find>:</find>
+      <find>[:</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesPostgres.py" />
+        <option value="$PROJECT_DIR$/../genePred/UnfoldFiles.py" />
+        <option value="$PROJECT_DIR$/feedForwardTestMnist.py" />
+        <option value="$PROJECT_DIR$/../genePred/genePred.py" />
+        <option value="$PROJECT_DIR$/../genePred/genePredOneGene.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestFeedForward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestFeedForward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WritingDataOnDb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestFeedForward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genePred" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestFeedForward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestFeedForward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WritingDataOnDb" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.genePredOneGene">
+    <configuration default="false" name="feedForwardTest0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestFeedForward" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feedForwardTest0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="feedForwardTestMnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestFeedForward" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feedForwardTestMnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="genePred" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../genePred" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="genePred" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../genePred/genePred.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UnfoldFiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../genePred" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="genePred" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../genePred/UnfoldFiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="genePredOneGene" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../genePred" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="genePred" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../genePred/genePredOneGene.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestFeedForward" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestFeedForward" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestFeedForward" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestFeedForward" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="TestFeedForward" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestFeedForward" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestFeedForward" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.feedForwardTest0" />
+      <item index="1" class="java.lang.String" itemvalue="Python.feedForwardTestMnist" />
+      <item index="2" class="java.lang.String" itemvalue="Python.genePred" />
+      <item index="3" class="java.lang.String" itemvalue="Python.UnfoldFiles" />
+      <item index="4" class="java.lang.String" itemvalue="Python.genePredOneGene" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.genePredOneGene" />
+        <item index="1" class="java.lang.String" itemvalue="Python.genePred" />
+        <item index="2" class="java.lang.String" itemvalue="Python.feedForwardTestMnist" />
+        <item index="3" class="java.lang.String" itemvalue="Python.UnfoldFiles" />
+        <item index="4" class="java.lang.String" itemvalue="Python.feedForwardTest0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a92bdee-569a-4509-9522-45d87bce0228" name="Default" comment="" />
+      <created>1498828149947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498828149947</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19765739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30757096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39905363" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/feedForwardTest0.py</url>
+          <line>2</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../genePred/genePred.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../genePred/genePred.py</url>
+          <line>240</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../genePred/genePredOneGene.py</url>
+          <line>234</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="227" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../genePred/UnfoldFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="62" column="49" lean-forward="false" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="240" column="0" lean-forward="false" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/UnfoldFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4267">
+          <caret line="283" column="0" lean-forward="false" selection-start-line="283" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26418">
+          <caret line="1590" column="0" lean-forward="false" selection-start-line="1590" selection-start-column="0" selection-end-line="1590" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesOracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesPostgres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="140" column="91" lean-forward="false" selection-start-line="140" selection-start-column="85" selection-end-line="140" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesOracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesPostgres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="140" column="91" lean-forward="false" selection-start-line="140" selection-start-column="85" selection-end-line="140" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesOracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5270">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesOracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesPostgres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="140" column="91" lean-forward="false" selection-start-line="140" selection-start-column="85" selection-end-line="140" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesOracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="104" column="4" lean-forward="true" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesPostgres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="174" column="25" lean-forward="false" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedForwardTest0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedForwardTest0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedForwardTest0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedForwardTest0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedForwardTest0_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedForwardTest0_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/tensorflow/python/framework/op_def_library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="773" column="0" lean-forward="false" selection-start-line="773" selection-start-column="0" selection-end-line="773" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/arff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="652" column="0" lean-forward="true" selection-start-line="652" selection-start-column="0" selection-end-line="652" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesOracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WritingDataOnDb/writeVersionsGenesPostgres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="140" column="91" lean-forward="false" selection-start-line="140" selection-start-column="85" selection-end-line="140" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="307" column="0" lean-forward="false" selection-start-line="307" selection-start-column="0" selection-end-line="307" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/tensorflow/python/ops/gen_math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="174" column="0" lean-forward="false" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/tensorflow/python/platform/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26418">
+          <caret line="1590" column="0" lean-forward="false" selection-start-line="1590" selection-start-column="0" selection-end-line="1590" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedForwardTestMnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="52" column="66" lean-forward="false" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
+          <folding>
+            <element signature="e#125#163#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="510" column="0" lean-forward="false" selection-start-line="510" selection-start-column="0" selection-end-line="510" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/UnfoldFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="192" column="42" lean-forward="false" selection-start-line="192" selection-start-column="42" selection-end-line="192" selection-end-column="42" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="530" column="0" lean-forward="false" selection-start-line="530" selection-start-column="0" selection-end-line="530" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genePred/genePredOneGene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="244" column="14" lean-forward="false" selection-start-line="244" selection-start-column="14" selection-end-line="244" selection-end-column="14" />
+          <folding>
+            <element signature="e#149#394#0" expanded="false" />
+            <element signature="e#459#506#0" expanded="false" />
+            <element signature="e#610#1163#0" expanded="false" />
+            <element signature="e#1241#1258#0" expanded="false" />
+            <element signature="e#1337#1445#0" expanded="false" />
+            <element signature="e#1574#1688#0" expanded="false" />
+            <element signature="e#1859#2029#0" expanded="false" />
+            <element signature="e#2234#2555#0" expanded="false" />
+            <element signature="e#2587#2812#0" expanded="false" />
+            <element signature="e#2935#3150#0" expanded="false" />
+            <element signature="e#3283#3634#0" expanded="false" />
+            <element signature="e#3903#4353#0" expanded="false" />
+            <element signature="e#4498#4875#0" expanded="false" />
+            <element signature="e#4906#4984#0" expanded="false" />
+            <element signature="e#5013#5082#0" expanded="false" />
+            <element signature="e#5132#5201#0" expanded="false" />
+            <element signature="e#5280#5883#0" expanded="false" />
+            <element signature="e#5961#6119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
