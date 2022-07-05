@@ -1,5 +1,5 @@
 openpyxl==2.5.1
 ortools==6.9.5824
-numpy==1.15.2
+numpy==1.22.0
 geopy==1.16.0
 scikit_learn==0.20.3
